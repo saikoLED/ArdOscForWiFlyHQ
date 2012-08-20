@@ -14,7 +14,7 @@
 
 #include <stdlib.h>
 
-#include "OSCcommon/OSCServer.h"
+#include "OSCCommon/OSCServer.h"
 
 
 OSCServer::OSCServer(WiFly* wiFly) :
